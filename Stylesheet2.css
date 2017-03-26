@@ -5,9 +5,11 @@
 }
 .jumbotron h1 {
 	margin:auto;
+	text-align: center;
 }
 .jumbotron p {
 	margin:auto;
+	text-align: center;
 }
 .full {
     width: 100%;    
