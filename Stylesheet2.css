@@ -1,5 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
+.navbar-brand
+{
+	font-family: 'Fascinate Inline', cursive;
+}
+body
+{
+	font-family: 'Fascinate Inline', cursive;
+}
 .jumbotron {
 	margin:auto;
 }
