@@ -1,8 +1,22 @@
 @charset "UTF-8";
 /* CSS Document */
+@font-face
+{
+	font-family: 'Fascinate Inline', cursive;
+	src: url(https://fonts.googleapis.com/css?family=Fascinate+Inline);
+}
 .navbar-brand
 {
 	font-family: 'Fascinate Inline', cursive;
+	src: url(https://fonts.googleapis.com/css?family=Fascinate+Inline);
+}
+.navbar navbar-inverse
+{
+	font-family: 'Fascinate Inline', cursive;
+}
+.container-fluid
+{
+	background-color: #2F63B0;
 }
 body
 {
@@ -10,14 +24,17 @@ body
 }
 .jumbotron {
 	margin:auto;
+	font-family: 'Fascinate Inline', cursive;
 }
 .jumbotron h1 {
 	margin:auto;
 	text-align: center;
+	font-family: 'Fascinate Inline', cursive;
 }
 .jumbotron p {
 	margin:auto;
 	text-align: center;
+	font-family: 'Fascinate Inline', cursive;
 }
 .full {
     width: 100%;    
