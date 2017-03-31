@@ -16,17 +16,21 @@
 }
 .container-fluid
 {
-	background-color: #2F63B0;
+	background-color: #111721;
 }
 body
 {
 	font-family: 'Fascinate Inline', cursive;
+	background-color: #6d8791;
 }
 .jumbotron {
 	margin:auto;
 	font-family: 'Fascinate Inline', cursive;
 	background-image: url("BandPicOne.jpg");
-	background-color: #cccccc;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-color: #16181c;
 }
 .jumbotron h1 {
 	margin:auto;
