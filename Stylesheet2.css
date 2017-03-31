@@ -25,6 +25,8 @@ body
 .jumbotron {
 	margin:auto;
 	font-family: 'Fascinate Inline', cursive;
+	background-image: url("IMG_3273.jpg");
+	background-color: #cccccc;
 }
 .jumbotron h1 {
 	margin:auto;
