@@ -104,6 +104,17 @@ body, html
 	text-align: center;
 	font-family: 'Fascinate Inline', cursive;
 }
+.btn-lg
+{
+	background-image: url(Img/Buttons/lips.png);
+	background-size: 100% 210%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #16181c;
+	border: none;
+	color: #D8BACD;
+	text-shadow: -2px 1px #B70267;
+}
 .full {
     width: 100%;    
 }
