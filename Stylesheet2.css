@@ -78,6 +78,13 @@ body, html
 	color: #89B5C9;
 	text-align: center;
 }
+.Content
+{
+	text-align: center;
+	font-size:16px;
+	color: #1A1118;
+	text-shadow: 1px 1px #A688A2;
+}
 .jumbotron {
 	margin:auto;
 	font-family: 'Fascinate Inline', cursive;
