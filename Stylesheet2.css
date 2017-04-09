@@ -27,14 +27,56 @@ body, html
 {
 	height: 100%;
 }
-.paralax
+.SplashImage
 {
-	background-image: url(Img/BandPhotos/BandPicOne.jpg), url(Img/BandPhotos/P1010271%20-%20Version%202.jpg), url(Img/BandPhotos/IMG_9081.jpg), url(Img/BandPhotos/P1010275.jpg); 
+	background-image: url(Img/BandPhotos/BandPicOne.jpg);
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.parallax
+{ 
+	height: 100%;
+	background-attachment: fixed;
+	background-position: 100% auto;
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.parallax_image_one
+{
+	background-image: url(Img/BandPhotos/P1010275.jpg);
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_two
+{
+	background-image: url(Img/BandPhotos/IMG_9081.jpg);
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_three
+{
+	background-image: url(Img/BandPhotos/BandPicOne.jpg);
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_four
+{
+	background-image: url(Img/BandPhotos/P1010271%20-%20Version%202.jpg);
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
 }
 .jumbotron {
 	margin:auto;
