@@ -9,10 +9,12 @@
 {
 	font-family: 'Fascinate Inline', cursive;
 	src: url(https://fonts.googleapis.com/css?family=Fascinate+Inline);
+	color: #849BA1;
 }
-.navbar navbar-inverse
+.navbar-inverse
 {
 	font-family: 'Fascinate Inline', cursive;
+	color: #849BA1;
 }
 .container-fluid
 {
@@ -49,6 +51,8 @@ body, html
 .parallax_image_one
 {
 	background-image: url(Img/BandPhotos/P1010275.jpg);
+	background-size: contain;
+	background-position: center;
 	text-shadow: 1px 1px #15201F;
 	font-size: 36px;
 	color: #89B5C9;
@@ -57,6 +61,8 @@ body, html
 .parallax_image_two
 {
 	background-image: url(Img/BandPhotos/IMG_9081.jpg);
+	background-size: 100%;
+	background-position: center;
 	text-shadow: 1px 1px #15201F;
 	font-size: 36px;
 	color: #89B5C9;
@@ -65,6 +71,8 @@ body, html
 .parallax_image_three
 {
 	background-image: url(Img/BandPhotos/BandPicOne.jpg);
+	background-size: 100%;
+	background-position: center;
 	text-shadow: 1px 1px #15201F;
 	font-size: 36px;
 	color: #89B5C9;
@@ -73,6 +81,8 @@ body, html
 .parallax_image_four
 {
 	background-image: url(Img/BandPhotos/P1010271%20-%20Version%202.jpg);
+	background-size: 100%;
+	background-position: center;
 	text-shadow: 1px 1px #15201F;
 	font-size: 36px;
 	color: #89B5C9;
@@ -84,6 +94,15 @@ body, html
 	font-size:16px;
 	color: #1A1118;
 	text-shadow: 1px 1px #A688A2;
+	background-color: #ff9999;
+}
+.HeadingCenter
+{
+	background-color: #ff6666;
+}
+.center
+{
+	text-align: center;
 }
 .jumbotron {
 	margin:auto;
@@ -125,7 +144,8 @@ body, html
 	display: block;
 }
 .footer {
-	background: #EDEFF1;
+	background-color: #111721;
+	background: #111721;
 	height: auto;
 	padding-bottom: 30px;
 	position: relative;
@@ -141,7 +161,7 @@ body, html
 }
 .footer h3 {
 	border-bottom: 1px solid #BAC1C8;
-	color: #54697E;
+	color: #849BA1;
 	font-size: 18px;
 	font-weight: 600;
 	line-height: 27px;
@@ -161,7 +181,7 @@ body, html
 	display: block;
 }
 .footer a {
-	color: #78828D
+	color: #849BA1;
 }
 .supportLi h4 {
 	font-size: 20px;
@@ -239,10 +259,11 @@ body, html
 	color: #EDEFF1 !important;
 }
 .footer-bottom {
-	background: #E3E3E3;
+	background: #111721;
 	border-top: 1px solid #DDDDDD;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	color: #849BA1;
 }
 .footer-bottom p.pull-left {
 	padding-top: 6px;
