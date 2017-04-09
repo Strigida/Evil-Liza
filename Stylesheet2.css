@@ -23,6 +23,19 @@ body
 	font-family: 'Fascinate Inline', cursive;
 	background-color: #6d8791;
 }
+body, html
+{
+	height: 100%;
+}
+.paralax
+{
+	background-image: url(Img/BandPhotos/BandPicOne.jpg), url(Img/BandPhotos/P1010271%20-%20Version%202.jpg), url(Img/BandPhotos/IMG_9081.jpg), url(Img/BandPhotos/P1010275.jpg); 
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 .jumbotron {
 	margin:auto;
 	font-family: 'Fascinate Inline', cursive;
