@@ -134,6 +134,13 @@ body, html
 	color: #D8BACD;
 	text-shadow: -2px 1px #B70267;
 }
+.fanArt
+{
+	src: url(Img/Fan%20Art/thoughts.png);
+	margin: auto;
+	border: 2px solid #293032;
+	padding: 5px 5px 5px 5px;
+}
 .full {
     width: 100%;    
 }
