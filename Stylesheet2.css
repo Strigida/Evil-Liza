@@ -78,6 +78,116 @@ body, html
 	color: #89B5C9;
 	text-align: center;
 }
+.parallax_image_four
+{
+	background-image: url(Img/3v177124/Album%20Cover.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_five
+{
+	background-image: url(Img/3v177124/P1110873.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_six
+{
+	background-image: url(Img/3v177124/IMG_0369.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_seven
+{
+	background-image: url(Img/Ghosts/Screen%20Shot%202017-04-10%20at%203.12.22%20PM.png);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_eight
+{
+	background-image: url(Img/Ghosts/IMG_1588.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_nine
+{
+	background-image: url(Img/Ghosts/IMG_2138.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_ten
+{
+	background-image: url(Img/Ghosts/KBXE1073.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_eleven
+{
+	background-image: url(Img/Ghosts/10922307_1585983331631905_3874901279474258080_o.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_twelve
+{
+	background-image: url(Img/Shows/10550086_1515165895380316_1921234615602829235_o.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_thirteen
+{
+	background-image: url(Img/Shows/P1010276.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_fourteen
+{
+	background-image: url(Img/Shows/P1010275.jpg);
+	background-size: 95%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
 .Content
 {
 	text-align: center;
@@ -88,6 +198,7 @@ body, html
 	box-shadow: 2px 20px 30px #0e131c;
 	width: 95%;
 	margin: auto;
+	padding-bottom: 10px;
 }
 .HeadingCenter
 {
@@ -99,6 +210,15 @@ body, html
 	font-size: 36px;
 	color: #89B5C9;
 	text-align: center;
+}
+.HeadingCenter article p
+{
+	font-family: 'Muli', sans-serif;
+	text-shadow: 1px 2px 2px #0e131c;
+	width: 95%;
+	margin: auto;
+	font-size: 18px;
+	color: #ccf5ff;
 }
 .center
 {
