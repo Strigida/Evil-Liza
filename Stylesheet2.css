@@ -188,6 +188,86 @@ body, html
 	color: #89B5C9;
 	text-align: center;
 }
+.parallax_image_fifteen
+{
+	background-image: url(Img/Evie/EvieCheekBones.jpg);
+	background-size: 65%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_sixteen
+{
+	background-image: url(Img/Evie/EvieGlasses.jpg);
+	background-size: 35%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_seventeen
+{
+	background-image: url(Img/Evie/EvieSmall.jpg);
+	background-size: 35%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_eighteen
+{
+	background-image: url(Img/Evie/EvieHair.jpg);
+	background-size: 40%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_nineteen
+{
+	background-image: url(Img/Liz/IMG_2563.JPG);
+	background-size: 60%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_twenty
+{
+	background-image: url(Img/Liz/IMG_2562.JPG);
+	background-size: 70%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_twentyone
+{
+	background-image: url(Img/Liz/WTAD0872.jpg);
+	background-size: 40%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
+.parallax_image_twentytwo
+{
+	background-image: url(Img/Liz/LizMakeUp.jpg);
+	background-size: 50%;
+	background-position: center;
+	text-shadow: 1px 1px #15201F;
+	font-size: 36px;
+	color: #89B5C9;
+	text-align: center;
+}
 .Content
 {
 	text-align: center;
